@@ -9,6 +9,7 @@ output: wtt
 
 configuration: 
     abcdefghijklmnopqrstuvwxyz
+    
     4 3
     I Ma     (wordle) (is) (fun)
     II Mb    (tears) (boing) (lucky)
