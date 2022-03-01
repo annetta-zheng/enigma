@@ -1,7 +1,8 @@
 # CS61B 2022 Spring Project 1
 ### Enigma
 Enigma machines that Germany used during World War II to encrypt its military communications.
-https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj1/index.html#introduction
+[Detailed Introduction](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj1/index.html#introduction)
+
 For OOP, Data Structures in Java.
 ##### Manually translate three letters using the following configuration file:
 Input: 
