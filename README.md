@@ -4,7 +4,9 @@ https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj1/index.html#intro
 For OOP, Data Structure in Java
 ##### Manually translate your cs61b three letter code using the following configuration file:
 input: asb 
+
 output: wtt
+
 configuration: 
     abcdefghijklmnopqrstuvwxyz
     4 3
@@ -13,6 +15,7 @@ configuration:
     III Mm   (quack) (froze) (twins) (glyph)
     B R      (az) (by) (cx) (dw) (ev) (fu)
              (gt) (hs) (ir) (jq) (kp) (lo) (mn)
+             
 and the settings line:
     * B III II I maa (az) (mn)
 
