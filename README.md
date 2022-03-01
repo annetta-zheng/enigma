@@ -1,7 +1,7 @@
 # cs61b 2022 spring proj 1
-# Enigma
+### Enigma
 
-## Manually translate your cs61b three letter code using the following configuration file:
+##### Manually translate your cs61b three letter code using the following configuration file:
 input: asb 
 output: wtt
 configuration: 
@@ -17,4 +17,4 @@ and the settings line:
 
 
 
-all rights reserved
+All rights reserved.
